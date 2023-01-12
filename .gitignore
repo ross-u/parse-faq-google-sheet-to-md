@@ -1,0 +1,5 @@
+node_modules/
+markdown/
+.env
+.DS_Store
+*.json
